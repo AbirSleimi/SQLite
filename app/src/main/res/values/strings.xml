@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TPsqLITE</string>
+    <string name="name_string">Name</string>
+    <string name="phone_string">phone</string>
+</resources>
